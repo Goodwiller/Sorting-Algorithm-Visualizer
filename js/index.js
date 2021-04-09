@@ -1,5 +1,16 @@
 
 $(document).ready(()=>{
+
+
+    $('#logo').click(()=>{
+        alert("This link is currently inactive");
+    });
+    $('#contact').click(()=>{
+        alert("This link is currently inactive");
+    });
+    $('#project').click(()=>{
+        alert("This link is currently inactive");
+    });
     
 
     $('#barmenu').hover(()=>{
